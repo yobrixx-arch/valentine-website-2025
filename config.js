@@ -28,12 +28,12 @@ const CONFIG = {
             secretAnswer: "Eu não gosto de ti, eu amo-te!!! ❤️"           // Secret hover message
         },
         second: {
-            text: "Quanto me amas??",                          // For the love meter
+            text: "Quão grande é esse amor??",                          // For the love meter
             startText: "Amo-te este tanto!!!",                                   // Text before the percentage
             nextBtn: "Próximo ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Queres ser o meu Valentine dia 14 de Fevereiro de 2026?? 🌹", // The big question!
+            text: "Queres ser o meu Valentine, dia 14 de Fevereiro de 2026?? 🌹", // The big question!
             yesBtn: "Sim!",                                             // Text for "Yes" button
             noBtn: "Não"                                                 // Text for "No" button
         }
@@ -42,9 +42,9 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW Isso tudo?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "Até ao infinito e mais além! 🚀💝",              // Shows when they go past 1000%
-        normal: "E alémmmmm! 🥰"                           // Shows when they go past 100%
+        extreme: "WOOOOW Isso tudo?? 🥰💝",  // Shows when they go past 5000%
+        high: "É MÊM?? 😍💝",              // Shows when they go past 1000%
+        normal: "Só? 🥺"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
