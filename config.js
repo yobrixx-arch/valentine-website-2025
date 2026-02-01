@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Queres ser oi meu Valentine? 💝",
+    pageTitle: "Queres ser o meu Valentine? 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Sou o namorado mais sortudo do mundo! 🎉💝💖💝💓",
-        message: "Agora vem ter cpmigo para um grande abraço e um beijo enorme!",
+        message: "Agora vem aqui para um grande abraço e um beijo enorme!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
